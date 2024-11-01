@@ -26,7 +26,7 @@
 
 ```shell
 git clone https://github.com/xiaoWen9246/Chat_with_LLM.git
-cd Chat_with_Datawhale_langchain
+cd Chat_with_LLM
 ```
 
 - 创建 Conda 环境并安装依赖项
