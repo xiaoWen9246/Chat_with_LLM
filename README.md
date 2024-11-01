@@ -25,7 +25,7 @@
 - 克隆储存库
 
 ```shell
-git clone https://github.com/logan-zou/Chat_with_Datawhale_langchain.git
+git clone https://github.com/xiaoWen9246/Chat_with_LLM.git
 cd Chat_with_Datawhale_langchain
 ```
 
